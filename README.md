@@ -37,8 +37,8 @@
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |                                                       |
+|   Ação   | prompt                                                                                                                                                                                                                                                                      
+                                                  
 | conteúdo | você é um analista financeiro e vai utilizar  a tabela de dados contida no documento acima para gerar ideias para que eu possa poupar o suficiente para acumular dezesseis mil em 12 meses. Após a análise você pode sugerir estratégias para que eu acumule o valor esperado e ainda elaborar uma planilha personalizada para eu acompanhar a evolução do plano |
 
 
