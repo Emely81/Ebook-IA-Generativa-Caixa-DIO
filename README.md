@@ -18,13 +18,13 @@
 />
 </p>
 
-# Projeto EBOOK Gerado por I.A.s
+# Projeto Planilha Inteligente
 
 
  > ℹ️ **NOTE:** Este repositório foi criado durante o Bootcamp promovido pela [Caixa](https://www.caixa.gov.br/Paginas/home-caixa.aspx), [DIO](https://dio.me) e [Microsoft](https://www.microsoft.com/pt-br/) como desafio proposto pelo professor [Felipe Aguiar](https://github.com/felipeAguiarCode) para conclusão do módulo.
 >
 > 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Emely81/Ebook-IA-Generativa-Caixa-DIO/blob/main/output/Planilha-inteligente.xlsx" title="View XLS now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
