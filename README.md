@@ -28,9 +28,9 @@
 
 ## 💻 Tecnologias utilizadas no projeto
 
+- [Excel](https://www.microsoft.com/pt-br/microsoft-365/excel)
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+
 
 ## 🧠 Prompts
 
@@ -38,40 +38,30 @@
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |                                                       |
+| conteúdo | você é um analista financeiro e vai utilizar  a tabela de dados contida no documento acima para gerar ideias para que eu possa poupar o suficiente para acumular dezesseis mil em 12 meses. Após a análise você pode sugerir estratégias para que eu acumule o valor esperado e ainda elaborar uma planilha personalizada para eu acompanhar a evolução do plano |
 
 
-Midjourney：
 
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Conteúdo gerado via Excel
+- Análise financeira gerada pelo Chatgpt
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Planilha inteligente gerada durante a aula em `output`
+- Planilha gerada pelo ChatGPT em `output`
+- Base de dados analisado pela IA em `assets`
 
-## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+
 
 ## 👨‍💻 Expert
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
+   
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/felipeAguiarCode">
