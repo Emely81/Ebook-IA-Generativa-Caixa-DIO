@@ -62,6 +62,8 @@ ChatGPT：
 
 <p>
    Emely Inacio
+
+   Manifesto meu sincero agardecimento a todos os envolvidos nesse projeto. Gratidão!
     
 </p>
 <br/><br/>
@@ -69,4 +71,4 @@ ChatGPT：
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Emely Inacio] 
